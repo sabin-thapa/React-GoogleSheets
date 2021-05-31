@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 500px;
+  margin-left: 40%;
+}
+
+.form {
+  width: 200px;
+  padding: 20px;
+}
+
+.submit {
+  margin: 20px;
+}
+
+.labelField {
+  margin: 20px;
+}
